@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="[https://leetcard.jacoblin.cool/kinzanik?border=0&radius=20](https://leetcard.jacoblin.cool/hoarahlowx?theme=nord&font=JetBrains%20Mono)" height="150" alt="languages graph"  />
+  <img src="https://leetcard.jacoblin.cool/hoarahlowx?theme=nord&font=JetBrains%20Mono" height="150" alt="languages graph"  />
 </div>
 
 <div align="center">
