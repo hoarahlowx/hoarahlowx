@@ -6,15 +6,18 @@
 
 ###
 
-<h1 align="center">Hi👋 I'm hoarahlowx. 18 y.o.</h1>
+<h1 align="center">Hi👋 I'm hoarahlowx.</h1>
 
 ###
 
 <h3 align="left">👩‍💻  About me:</h3>
 
 ###
+* 18 y.o.
+* ITMO '30 | AIE (1st grade)
+* 5+ years in IT
 
-<p align="left">I'm an aspiring fullstack developer💻. I have been in IT for 4+ years. Graduated with honors python courses from Yandex Lyceum. About work write to:</p>
+<p align="left">About work write to:</p>
 <a href="https://t.me/hoarahlowx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
@@ -58,9 +61,6 @@
     </td>
     <td align="center" valign="middle">
       <img height="145" src="https://leetcard.jacoblin.cool/hoarahlowx?theme=dark&font=JetBrains%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%233fb950%2C%23d29922%2C%23f85149%2C%2358a6ff" alt="LeetCode Stats" />
-    </td>
-    <td align="center" valign="middle">
-      <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoarahlowx&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false&order=2" alt="Top Languages" />
     </td>
   </tr>
 </table>
