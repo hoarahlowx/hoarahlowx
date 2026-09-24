@@ -49,18 +49,18 @@
 
 ###
 
-<h3 align="left">🔥   My statictic :</h3>
+<h3 align="left">🔥 My statistics:</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=hoarahlowx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-<div align="center">
-  <img srс="https://leetcard.jacoblin.cool/hoarahlowx?theme=dark&font=JetBrains%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%233fb950%2C%23d29922%2C%23f85149%2C%2358a6ff" height="150" alt="languages graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoarahlowx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img height="145" src="https://streak-stats.demolab.com?user=hoarahlowx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="145" src="https://leetcard.jacoblin.cool/hoarahlowx?theme=dark&font=JetBrains%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%233fb950%2C%23d29922%2C%23f85149%2C%2358a6ff" alt="LeetCode Stats" />
+    </td>
+    <td align="center" valign="middle">
+      <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoarahlowx&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false&order=2" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
