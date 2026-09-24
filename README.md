@@ -58,7 +58,7 @@
 </div>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/hoarahlowx?theme=nord&font=JetBrains%20Mono" height="150" alt="languages graph"  />
+  <img srс="https://leetcard.jacoblin.cool/hoarahlowx?theme=dark&font=JetBrains%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%233fb950%2C%23d29922%2C%23f85149%2C%2358a6ff" height="150" alt="leetcode graph"/>
 </div>
 
 <div align="center">
