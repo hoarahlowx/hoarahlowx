@@ -54,17 +54,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kinzanik&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=hoarahlowx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-<!-- <div align="center">
-  <img src="https://leetcard.jacoblin.cool/kinzanik?border=0&radius=20" height="150" alt="languages graph"  />
-</div> -->
-
-###
+<div align="center">
+  <img src="[https://leetcard.jacoblin.cool/kinzanik?border=0&radius=20](https://leetcard.jacoblin.cool/hoarahlowx?theme=nord&font=JetBrains%20Mono)" height="150" alt="languages graph"  />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kinzanik&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hoarahlowx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
