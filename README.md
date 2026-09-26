@@ -60,7 +60,7 @@
       <img height="145" src="https://streak-stats.demolab.com?user=hoarahlowx&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="Streak Stats" />
     </td>
     <td align="center" valign="middle">
-      <img height="145" src="https://leetcard.jacoblin.cool/hoarahlowx?theme=dark&font=JetBrains%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%233fb950%2C%23d29922%2C%23f85149%2C%2358a6ff" alt="LeetCode Stats" />
+      <img height="145" src="https://leetcard.jacoblin.cool/hoarahlowx?theme=light&font=Fira%20Mono&colors=%230d1117%2C%2330363d%2C%23e6edf3%2C%238d96a0%2C%2321262d%2C%233fb950%2C%23d29922%2C%23f85149" alt="LeetCode Stats" />
     </td>
   </tr>
 </table>
