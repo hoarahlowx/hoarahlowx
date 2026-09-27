@@ -14,7 +14,7 @@
 
 ###
 * 18 y.o.
-* ITMO '30 | AIE (1st grade)
+* ITMO '30 | AIE (1st year)
 * 5+ years in IT
 
 <p align="left">About work write to:</p>
